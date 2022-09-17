@@ -29,9 +29,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzdo)](https://github.com/Enzdo/github-readme-stats)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deniau enzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deniau enzo" height="60" width="70" /></a>
+<a href="https://linkedin.com/in/https://fr.linkedin.com/in/deniau-enzo-29872221a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deniau enzo" height="60" width="70" /></a>
 </p>
 
 
