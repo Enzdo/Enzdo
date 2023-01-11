@@ -1,6 +1,7 @@
 
-<h1 align="center">On ma souvent dit "  l'argent appartient à ce qui se lève tôt  "</h1>
-<h3 align="center">j'espere que mes 5h du matin depuis 5 ans seront rentable :smirk_cat:</h3>
+<h1 align="center">
+Salut 👋, Je m'appelle Enzo Deniau "</h1>
+<h3 align="center">j'espère que mes petits projets vous plairont. :smirk_cat:</h3>
 
 <div width=50% height=20%>
 <img align="right"width=55% src="https://i.pinimg.com/originals/81/79/b5/8179b530237c2c657e2b17bd4b00c02e.gif" />
@@ -11,7 +12,7 @@
 ## Mais qui se cache derrière ce profil ? :thinking: 
 <h4>je suis Deniau Enzo 18 ans et je vie dans le val d'oise
  </br> pas grans choses a dire sur mon profil sauf que je suis passionnet par.... </h4>
-<img align="left" width=40% src="https://66.media.tumblr.com/a15a6a3a9fdd92a55d7f244a2aeb0623/tumblr_p5uf4qTJBf1x6a7yto1_500.gif" />
+<img align="left" width=40% src="https:https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-articleLarge.gif?quality=90&auto=webp" />
 
 
 
