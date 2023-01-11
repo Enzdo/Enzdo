@@ -12,7 +12,8 @@ Salut 👋, Je m'appelle Enzo Deniau "</h1>
 ## Mais qui se cache derrière ce profil ? :thinking: 
 <h4>je suis Deniau Enzo 18 ans et je vie dans le val d'oise
  </br> pas grans choses a dire sur mon profil sauf que je suis passionnet par.... </h4>
-<img align="left" width=40% src="[https:https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-articleLarge.gif?quality=90&auto=webp](https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-articleLarge.gif?quality=90&auto=webp)" />
+<img align="left" width=40% src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-articleLarge.gif?quality=90&auto=webp"
+        alt="">
 
 
 
