@@ -10,8 +10,8 @@ Salut 👋, Je m'appelle Enzo Deniau</h1>
 
 
 ## Mais qui se cache derrière ce profil ? :thinking: 
-<h4>je suis Deniau Enzo 19 ans et je vis dans le val d'oise
- </br> pas grand chose à dire sur mon profil sauf que je suis passionnée par.... </h4>
+<h4>Je suis Enzo Deniau, j'ai 19 ans et je vis dans le Val d'Oise
+ </br>Il n'y a pas grand-chose à dire sur mon profil, sauf que je suis passionné par.... </h4>
 <img align="left" width=40% src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-articleLarge.gif?quality=90&auto=webp"
         alt="">
 
@@ -30,7 +30,7 @@ Salut 👋, Je m'appelle Enzo Deniau</h1>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzdo)](https://github.com/Enzdo/github-readme-stats)
 
 
-<h2 align="left">Ou me Contacter :</h2>
+<h2 align="left">Ou me contacter :</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/deniau-enzo-29872221a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deniau enzo" height="60" width="70" /></a>
 </p>
