@@ -2,18 +2,12 @@
 <h1 align="center">
 Salut 👋, Je m'appelle Enzo Deniau</h1>
 <h3 align="center">j'espère que mes petits projets vous plairont. :smirk_cat:</h3>
-
-<div width=50% height=20%>
-<img align="right"width=55% src="https://i.pinimg.com/originals/81/79/b5/8179b530237c2c657e2b17bd4b00c02e.gif" />
-</div>
-
-
-
 ## Mais qui se cache derrière ce profil ? :thinking: 
 <h4>Je suis Enzo Deniau, j'ai 19 ans et je vis dans le Val d'Oise
  </br>Il n'y a pas grand-chose à dire sur mon profil, sauf que je suis passionné par.... </h4>
-<img align="left" width=40% src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-articleLarge.gif?quality=90&auto=webp"
-        alt="">
+<div width=50% height=20%>
+<img align="right"width=55% src="https://i.pinimg.com/originals/81/79/b5/8179b530237c2c657e2b17bd4b00c02e.gif" />
+</div>
 
 
 
