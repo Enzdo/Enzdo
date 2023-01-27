@@ -1,22 +1,22 @@
 
 <h1 align="center">
-Salut 👋, Je m'appelle Deniau Enzo</h1>
+Salut 👋, Je m'appelle Enzo Deniau</h1>
 <h3 align="center">Bienvenu(e) sur ma page github, j'espère que mes projets vous plairont. :smirk_cat:</h3>
-<h3> voici quelques infos</h3>
+<h3> Voici quelques infos</h3>
 
 - Passionné par les nouvelles technologies
 
-- Pour toute demande contacter moi ici -> **enzo.deniaupro@gmail.com** ou LinkedIn : **Enzo Deniau**
+- Pour toute demande contactez moi ici -> **enzo.deniaupro@gmail.com** ou LinkedIn : **Enzo Deniau**
 
 - Étudie à L'IIM (Groupe Léonard de Vinci) [IIM.fr](https://www.iim.fr/) <img src="https://www.iim.fr/ecole-web/fav/favicon-32x32.png" alt="IIM" width="16" height="16"/>
 
-<h3> Petite info sur moi </h3>
+<h3> Petites infos sur moi </h3>
 
 - Deniau Enzo, 19 ans
 
-- Mange des cartes graphique
+- Mange des cartes graphiques
 
-- passionné par tout se que se nouveau monde virtuel pourra lui montrer 
+- passionné par tout ce que ce nouveau monde virtuel pourra lui montrer 
 
 <h1 align="center"></h1>
 
