@@ -38,7 +38,7 @@ Hello 👋, bienvenu(e) sur ma page github</h1>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzdo)](https://github.com/Enzdo/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzdo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://www.linkedin.com/in/deniau-enzo-29872221a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deniau enzo" height="60" width="70" /></a>
+<a href="https://fr.linkedin.com/in/enzo-deniau-29872221a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deniau enzo" height="60" width="70" /></a>
 </p>
 
 
