@@ -1,7 +1,7 @@
 
 <h1 align="center">
-Salut 👋, Je m'appelle Enzo Deniau</h1>
-<h3 align="center">Bienvenu(e) sur ma page github, j'espère que mes projets vous plairont. :smirk_cat:</h3>
+Hello 👋, bienvenu(e) sur ma page github</h1>
+<h3 align="center">Je m'appelle Deniau Enzo et j'espère que mes projets vous plairont. :smirk_cat:</h3>
 <h3> Voici quelques infos</h3>
 
 - Passionné par les nouvelles technologies
