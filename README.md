@@ -21,7 +21,7 @@ Hello 👋, bienvenu(e) sur ma page github</h1>
 <h1 align="center"></h1>
 
 <h3 align="left">Ma petite boite à langage :</h3>
-<p align="left"><img src="https://deniau-enzo.fr/img/logo_software/HTML5.png" /> <img src="https://deniau-enzo.fr/img/logo_software/css.png" /> <img src="https://deniau-enzo.fr/img/logo_software/java.png" /> <img src="https://deniau-enzo.fr/img/logo_software/php.png" /> <img src="https://deniau-enzo.fr/img/logo_software/sql.png" /> <img src="https://deniau-enzo.fr/img/logo_software/scss.png" /> <img src="https://deniau-enzo.fr/img/logo_software/vue.png" /> <img src="https://deniau-enzo.fr/img/logo_software/tailwind.png" /> <img src="https://deniau-enzo.fr/img/logo_software/three.png" /> <img src="https://deniau-enzo.fr/img/logo_software/spline.png" /> <img src="https://deniau-enzo.fr/img/logo_software/symfony.png"/> <img src="https://deniau-enzo.fr/img/logo_software/node.png" /> </p>
+<p align="left"><img src="https://deniau-enzo.fr/img/logo_software/HTML5.png" /> <img src="https://deniau-enzo.fr/img/logo_software/css.png" /> <img src="https://deniau-enzo.fr/img/logo_software/java.png" /> <img src="https://deniau-enzo.fr/img/logo_software/phpobject.png" /> <img src="https://deniau-enzo.fr/img/logo_software/sql.png" /> <img src="https://deniau-enzo.fr/img/logo_software/scss.png" /> <img src="https://deniau-enzo.fr/img/logo_software/vue.png" /> <img src="https://deniau-enzo.fr/img/logo_software/tailwind.png" /> <img src="https://deniau-enzo.fr/img/logo_software/three.png" /> <img src="https://deniau-enzo.fr/img/logo_software/spline.png" /> <img src="https://deniau-enzo.fr/img/logo_software/symfony.png"/> <img src="https://deniau-enzo.fr/img/logo_software/nodejs.png" /> </p>
 
 <h1 align="center"></h1>
 
