@@ -8,7 +8,6 @@ Hello 👋, bienvenu(e) sur ma page github</h1>
 
 - Pour toute demande contactez moi ici -> **enzodeniau2003@gmail.com** ou [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enzo-deniau-29872221a/)
 
-- Étudie à L'IIM (Groupe Léonard de Vinci) [IIM.fr](https://www.iim.fr/) <img src="https://www.iim.fr/ecole-web/fav/favicon-32x32.png" alt="IIM" width="16" height="16"/>
 
 <h3> Petites infos sur moi </h3>
 
